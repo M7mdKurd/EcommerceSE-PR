@@ -1,8 +1,7 @@
 # Task 1: Project Definition
 
 ## Project Title
-**ShopSphere** – An Online Retail and Inventory Management Web Application
-
+ONGOING THIS IS DEMO
 ## Problem Statement
 Local retail customers frequently struggle to check product availability and compare prices without physically visiting multiple stores or messaging sellers on social media. At the same time, store staff track orders and stock levels manually using spreadsheets or paper logs, which leads to human error, overselling out-of-stock items, and delayed order fulfillment. Store managers have no accurate, real-time data on daily sales performance or low-inventory alerts, resulting in lost revenue and dissatisfied customers.
 
